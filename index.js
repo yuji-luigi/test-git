@@ -1,1 +1,1 @@
-const html = null
+const html = document.html
